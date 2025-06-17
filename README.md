@@ -93,5 +93,5 @@ Las sugerencias, mejoras y contribuciones son bienvenidas. Si deseas contribuir:
 5.  Abre un Pull Request.
 
 ## Licencia
-
+GPL-3.0 license
 
