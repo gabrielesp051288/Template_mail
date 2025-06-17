@@ -94,8 +94,4 @@ Las sugerencias, mejoras y contribuciones son bienvenidas. Si deseas contribuir:
 
 ## Licencia
 
-Este proyecto es de libre uso y modificación. Puedes considerar añadir una licencia formal como la [MIT License](https://opensource.org/licenses/MIT) si lo deseas.
 
----
-
-Puedes copiar y pegar este contenido en un nuevo archivo llamado `README.md` en la raíz de tu repositorio de GitHub. GitHub lo mostrará automáticamente en la página principal del repositorio.
